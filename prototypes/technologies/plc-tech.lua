@@ -35,6 +35,6 @@ data:extend({
             effect_description = {"effect-description.nyia-portal"}
         }
     },
-    name = "plc-core"
+    name = "plc-core-technology"
     }
 })
