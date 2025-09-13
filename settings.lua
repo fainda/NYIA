@@ -32,7 +32,6 @@ data:extend({
         default_value = 10,
         minimum_value = 0,
         maximum_value = 60,
-        order = "20"
+        order = "21"
     }
 })
-
