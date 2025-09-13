@@ -9,6 +9,7 @@ data:extend({
         results = {
             {type = "item", name = "plc-rack-item", amount = 1}
         },
+        enabled = false,
         subgroup = "circuit-network",
         order = "00"
     },
@@ -22,6 +23,7 @@ data:extend({
         results = {
             {type = "item", name = "plc-non-modular-item", amount = 1}
         },
+        enabled = false,
         subgroup = "circuit-network",
         order = "01"
     },
@@ -35,6 +37,7 @@ data:extend({
         results = {
             {type = "item", name = "plc-modular-basic-item", amount = 1}
         },
+        enabled = false,
         subgroup = "circuit-network",
         order = "02"
     },
@@ -48,6 +51,7 @@ data:extend({
         results = {
             {type = "item", name = "plc-modular-advanced-item", amount = 1}
         },
+        enabled = false,
         subgroup = "circuit-network",
         order = "03"
     }
